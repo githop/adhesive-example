@@ -2,12 +2,10 @@
 
 ##Setup 
 
-This is for getting the actual app. I used a yeoman generator to help get thing started. Rather than have you install the entire generator, you can simply clone this repository and serve the files locally see the app. The source code can be found [here](https://github.com/githop/adhesive-app)
+This is for getting the actual app. I used a yeoman generator to help get thing started. Rather than have you install the entire generator, you can simply clone this repository and serve the files locally see the app (or simply open the index.html file in your browser!). The source code can be found [here](https://github.com/githop/adhesive-app)
 
-  - git clone https://github.com/githop/adhesive-example.git
-  - npm install -g http-server
-  - cd adhesive-app
-  - http-server .
+  -     git clone https://github.com/githop/adhesive-example.git
+  -     cd adhesive-app
 
 
 ###App Overview
